@@ -12,3 +12,6 @@
  2. create a virtual enviroment: python -m venv smt
  3. run the venv: ./smt/Scripts/activate
  4. modify parameters of frustrator or just run: python frustrator.py
+
+# Note
+ Only supports Python version right now cuz z3 has lousy suppports on cpp to be a good verifer!
