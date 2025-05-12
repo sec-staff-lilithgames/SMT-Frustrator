@@ -1,8 +1,8 @@
-# WHAT?
+# WHAT
 
  This is a simple SMT-frustrator which aims to protect your function from Symbolic Execution tools like angr or klee or anythings based on SMT solvers. 
 
-# HOW?
+# HOW
 
  It creates Opaque Predicates based on transformed Pell equation to exploit the weakness of lacking supports on non-linear constraints dealing. And also avoids pattern matching via  Quadratic transformation to add noises. 
 
