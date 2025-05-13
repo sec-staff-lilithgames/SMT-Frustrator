@@ -14,4 +14,4 @@
  4. modify parameters of frustrator or just run: python frustrator.py
 
 # Note
- Only supports Python version right now cuz z3 has lousy suppports on cpp to be a good verifer!
+ CPP version is not stable yet
